@@ -1,1 +1,1 @@
-# recursos
+# Recursos para páginas web
